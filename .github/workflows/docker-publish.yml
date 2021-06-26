@@ -19,7 +19,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: kaisoku.jfrog.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: docker-virtual/my-image
+  IMAGE_NAME: docker-dev-local/my-image
   USER: thomas.charrier@kaisoku-consulting.com
 
 
